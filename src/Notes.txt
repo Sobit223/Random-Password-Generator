@@ -1,0 +1,4 @@
+usecallback()  = (function, [list of dependicies])  ==>  It is a memoxiation concept 
+ we pass the function simpley like the noramal functions, and gives the depencies that if they change store them in cache
+
+ Useeffect = (function, [list of dependicies])   if any change happens in the dependecy run the function
